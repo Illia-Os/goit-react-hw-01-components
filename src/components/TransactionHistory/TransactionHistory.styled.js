@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Table = styled.table`
-  width: 500px;
+  width: 750px;
   margin: 30px auto;
   border: 1px solid #000;
   border-radius: 7px;
@@ -14,8 +14,7 @@ export const Table = styled.table`
 `;
 
 export const THead = styled.thead`
-  background-color: #00bcd5;
-  border-radius: 7px;
+  background-color: #adadad;
 `;
 
 export const TBody = styled.tbody``;

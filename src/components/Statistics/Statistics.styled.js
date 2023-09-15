@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StatWrapper = styled.div`
   margin: 30px auto;
-  width: 450px;
+  width: 350px;
   display: flex;
   flex-direction: column;
   align-items: center;
